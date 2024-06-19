@@ -18,4 +18,4 @@
 
 ## 구현 결과
 
-- 유튜브 링크 : 
+- 유튜브 링크 : <https://youtu.be/MJAkojQcf_0>
