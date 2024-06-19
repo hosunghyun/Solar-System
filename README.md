@@ -1,1 +1,1 @@
-# Solar-System-OpenGl
+# Solar-System
