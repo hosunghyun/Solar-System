@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\user\source\repos\20181479\20181479\main.cpp(17,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(22,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(23,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(31,33): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(36,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(37,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(45,33): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(51,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(55,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(65,33): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(70,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(71,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(79,33): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(84,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(85,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(88,50): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(89,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(98,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(103,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(104,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(111,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(112,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(114,31): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(122,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(128,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(136,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(141,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(151,32): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(156,48): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(157,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(203,32): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(205,30): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(206,29): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(207,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(208,31): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(209,30): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(210,31): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(211,29): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(237,53): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(252,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(255,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(258,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(261,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(264,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(267,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\20181479\20181479\main.cpp(276,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  20181479.vcxproj -> C:\Users\user\source\repos\20181479\Debug\20181479.exe
